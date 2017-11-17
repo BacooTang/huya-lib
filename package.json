@@ -1,0 +1,23 @@
+{
+  "name": "huya-lib",
+  "version": "1.0.0",
+  "description": "huya taf lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BacooTang/huya-lib.git"
+  },
+  "keywords": [
+    "huya",
+    "lib"
+  ],
+  "author": "BacooTang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BacooTang/huya-lib/issues"
+  },
+  "homepage": "https://github.com/BacooTang/huya-lib#readme"
+}
